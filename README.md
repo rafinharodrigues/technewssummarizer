@@ -92,3 +92,6 @@ A detailed, conversational 3-minute script designed for video presentation.
 - **User Interface (UI)**: Implement a GUI for easier interaction.
 - **Additional News Sources**: Expand the list of websites for broader coverage.
 - **Customization Options**: Allow users to adjust the number of articles or customize the script length.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
