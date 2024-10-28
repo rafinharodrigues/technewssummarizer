@@ -1,3 +1,6 @@
+
+![Creator](content.jpg)
+
 # Tech News Automation with OpenAI API
 
 ## Overview
